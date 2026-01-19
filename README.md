@@ -1,147 +1,61 @@
-# BridgeLabz-Training-CG
+# BridgeLabz-Training
 
-This repository documents my daily learning, hands-on practice, and progress during the BridgeLabz AMTPL Java Training Program.  
-It includes Java fundamentals, core programming concepts, structured practice problems, and Git-based version control workflows followed throughout the training.
-
+This repository tracks my daily learning, hands-on practice, and submissions during the BridgeLabz Java Training Program.
 ---
 
-# 8th December 2025
+• **08-Dec-2025 (Monday):**  
+Set up the complete development environment by installing VS Code, Visual Studio, IntelliJ IDEA, Eclipse IDE, and Git, and verified configurations.
 
-On this day, we focused on setting up the complete development environment required for Java programming.
+• **09-Dec-2025 (Tuesday):**  
+Learned Java fundamentals including features of Java, JDK, JVM, JRE, execution flow, data types, variables, and basic syntax.
 
-We installed and verified the following tools:
-- Visual Studio Code
-- Visual Studio
-- IntelliJ IDEA
-- Eclipse IDE
-- Git
+• **10-Dec-2025 (Wednesday):**  
+Practiced basic Java programs, understood program structure, and used Git commands (init, add, commit, push) to upload programs to GitHub.
 
-We also checked whether these tools were already installed on the system and ensured proper configuration for development.
+• **11-Dec-2025 (Thursday):**  
+Worked on practice problems covering Strings, basic string operations, Arrays, and input/output programs using terminal commands.
 
----
+• **12-Dec-2025 (Friday):**  
+Focused on array concepts including one-dimensional arrays, initialization, traversal, memory allocation, and basic problem solving.
 
-# 9th December 2025
+• **13-Dec-2025 (Saturday):**  
+Practiced Java Methods including defining methods, calling methods, passing parameters, return types, and basic method-based programs.
 
-We learned the basic fundamentals of Java programming.
+• **15-Dec-2025 (Monday):**  
+Solved Programming Elements Level 1 and Level 2 problems using user-defined input, command-line input, and real-world scenarios.
 
-Topics covered:
-- What is Java
-- Features of Java
-- Java Development Kit (JDK)
-- Java Virtual Machine (JVM)
-- Java Runtime Environment (JRE)
-- Java program execution flow
-- Data types in Java
-- Variables and basic syntax
+• **16-Dec-2025 (Tuesday):**  
+Practiced Control Flow concepts including conditional statements, loops (for, while, do-while), switch-case, and Level 1 to Level 3 problems.
 
----
+• **17-Dec-2025 (Wednesday):**  
+Practiced Java Arrays with Level 1 and Level 2 problems involving one-dimensional and two-dimensional arrays and logical problem solving.
 
-# 10th December 2025
+• **18-Dec-2025 (Thursday):**  
+Practiced Java Methods including built-in functions and string handling, and organized code using a branch-based Git workflow.
 
-We practiced basic Java programming concepts through simple programs.
+• **20-Dec-2025 (Saturday):**  
+Installed and set up Notepad++, Eclipse IDE, and JDK, and revised the basics of Java.
 
-Activities performed:
-- Writing and executing basic Java programs
-- Understanding program structure
-- Using Git commands such as:
-  - git init
-  - git add
-  - git commit
-  - git push
-- Uploading Java programs to GitHub repositories
+• **22-Dec-2025 (Monday):**  
+Studied Object-Oriented Programming concepts including Java classes and objects.
 
----
+• **23-Dec-2025 (Tuesday):**  
+Learned Java constructors, instance vs class variables, access modifiers, and completed array practice submissions.
 
-# 11th December 2025
+• **08-Jan-2026 (Thursday):**  
+Practiced Git workflow basics including feature branches, merges, releases, hotfixes, tagging, and pushing branches to GitHub.
 
-We worked on practice problems allocated during the training.
+• **09-Jan-2026 (Friday):**  
+Studied this, static, final keywords and instanceof operator, and completed Level 1 lab practice.
 
-Topics included:
-- Introduction to Strings
-- Basic String operations
-- Introduction to Arrays
-- Understanding array fundamentals
+• **10-Jan-2026 (Saturday):**  
+Learned Object-Oriented Design Principles including Class Diagrams, Object Diagrams, and Sequence Diagrams.
 
-We also practiced input and output–based programs using terminal commands.
+• **12-Jan-2026 (Monday):**  
+Studied Inheritance including single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, and polymorphism.
 
----
+• **13-Jan-2026 (Tuesday):**  
+Learned Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
 
-# 12th December 2025
-
-We focused entirely on arrays and their core concepts.
-
-Topics covered:
-- One-dimensional arrays
-- Array initialization and traversal
-- Basic array-based problem solving
-- Understanding memory allocation in arrays
-
----
-
-# 13th December 2025
-
-We practiced Java Methods and their usage.
-
-Topics included:
-- Defining methods
-- Calling methods
-- Passing parameters
-- Return types
-- Writing basic method-based programs
-
----
-
-# 15th December 2025
-
-We practiced **Programming Elements** problems.
-
-Coverage included:
-- Level 1 and Level 2 problems
-- User-defined input
-- Command-line input
-- Basic computational programs
-- Real-world problem statements using Java
-
----
-
-# 16th December 2025
-
-We practiced **Control Flow** concepts extensively.
-
-Topics and practice levels:
-- Conditional statements
-- Loops:
-  - for loop
-  - while loop
-  - do-while loop
-- switch-case statements
-- Control Flow practice programs:
-  - Level 1
-  - Level 2
-  - Level 3
-
----
-
-# 17th December 2025
-
-We practiced **Java Arrays** in depth.
-
-Topics covered:
-- Level 1 and Level 2 array problems
-- One-dimensional arrays
-- Two-dimensional arrays
-- Logical problem solving using arrays
-
----
-
-# 18th December 2025
-
-We practiced **Java Methods** in detail.
-
-Coverage included:
-- Level 1 and Level 2 method-based problems
-- Applying methods to real problem statements
-- Improving code structure and reusability
-  
-Also organized and uploaded all the work into GitHub using a **new branch-based repository structure** for better version control and project organization.
-
+• **14-Jan-2026 (Wednesday):**  
+Submitted Data Structures work on Linked Lists including Single, Double, and Circular Linked Lists.
