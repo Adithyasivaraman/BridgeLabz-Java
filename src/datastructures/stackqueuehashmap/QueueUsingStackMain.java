@@ -28,7 +28,7 @@ class QueueUsingStacks {
     }
 }
 
-public class QueueUsingStacksMain {
+public class QueueUsingStackMain {
     public static void main(String[] args) {
         QueueUsingStacks q = new QueueUsingStacks();
 
