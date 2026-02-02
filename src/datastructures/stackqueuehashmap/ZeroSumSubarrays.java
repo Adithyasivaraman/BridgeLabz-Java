@@ -22,7 +22,7 @@ class ZeroSumSubarray {
     }
 }
 
-public class ZeroSumSubarrayMain {
+public class ZeroSumSubarrays {
     public static void main(String[] args) {
         int[] arr = {3, 4, -7, 1, 2, -1, 1, -2};
         ZeroSumSubarray.findSubarrays(arr);

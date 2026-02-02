@@ -84,7 +84,7 @@ class MovieDoublyLinkedList {
     }
 }
 
-public class MovieDLLMain {
+public class MovieDLL {
     public static void main(String[] args) {
         MovieDoublyLinkedList list = new MovieDoublyLinkedList();
 

@@ -15,7 +15,7 @@ class PairSum {
     }
 }
 
-public class PairSumMain {
+public class PairSums {
     public static void main(String[] args) {
         int[] arr = {8, 7, 2, 5, 3, 1};
         int target = 10;

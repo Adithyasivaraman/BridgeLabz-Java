@@ -67,7 +67,7 @@ class CustomHashMap {
     }
 }
 
-public class CustomHashMapMain {
+public class CustomHashMaps {
     public static void main(String[] args) {
         CustomHashMap map = new CustomHashMap();
 

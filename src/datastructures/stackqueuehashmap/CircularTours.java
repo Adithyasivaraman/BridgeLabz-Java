@@ -24,7 +24,7 @@ class CircularTour {
     }
 }
 
-public class CircularTourMain {
+public class CircularTours {
     public static void main(String[] args) {
         PetrolPump[] pumps = {
                 new PetrolPump(6, 4),

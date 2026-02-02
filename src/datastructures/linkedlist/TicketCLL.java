@@ -50,7 +50,7 @@ class TicketCircularList {
     }
 }
 
-public class TicketCLLMain {
+public class TicketCLL {
     public static void main(String[] args) {
         TicketCircularList tickets = new TicketCircularList();
 

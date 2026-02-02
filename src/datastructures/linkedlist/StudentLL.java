@@ -86,7 +86,7 @@ class StudentLinkedList {
     }
 }
 
-public class StudentLLMain {
+public class StudentLL {
     public static void main(String[] args) {
         StudentLinkedList list = new StudentLinkedList();
 

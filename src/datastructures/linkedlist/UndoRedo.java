@@ -43,7 +43,7 @@ class UndoRedoManager {
     }
 }
 
-public class UndoRedoMain {
+public class UndoRedo {
     public static void main(String[] args) {
         UndoRedoManager editor = new UndoRedoManager();
 

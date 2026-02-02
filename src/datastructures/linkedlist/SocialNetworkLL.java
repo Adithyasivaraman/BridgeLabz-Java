@@ -63,7 +63,7 @@ class SocialNetwork {
     }
 }
 
-public class SocialNetworkLLMain {
+public class SocialNetworkLL {
     public static void main(String[] args) {
         SocialNetwork sn = new SocialNetwork();
 

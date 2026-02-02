@@ -99,7 +99,7 @@ class LibraryDoublyLinkedList {
     }
 }
 
-public class LibraryDLLMain {
+public class LibraryDLL {
     public static void main(String[] args) {
         LibraryDoublyLinkedList library = new LibraryDoublyLinkedList();
 

@@ -62,7 +62,7 @@ class TaskCircularList {
     }
 }
 
-public class TaskCLLMain {
+public class TaskCLL {
     public static void main(String[] args) {
         TaskCircularList scheduler = new TaskCircularList();
 

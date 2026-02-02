@@ -100,7 +100,7 @@ class InventoryLinkedList {
     }
 }
 
-public class InventoryLLMain {
+public class InventoryLL {
     public static void main(String[] args) {
         InventoryLinkedList inv = new InventoryLinkedList();
 
