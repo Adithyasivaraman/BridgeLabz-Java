@@ -25,7 +25,7 @@ class Company {
     }
 }
 
-public class CompanyMain {
+public class Companys {
     public static void main(String[] args) {
         Company c = new Company();
         c.closeCompany();

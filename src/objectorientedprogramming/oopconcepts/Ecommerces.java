@@ -28,7 +28,7 @@ class Customer {
     }
 }
 
-public class EcommerceMain {
+public class Ecommerces {
     public static void main(String[] args) {
         Customer c = new Customer("Adi");
         Product p1 = new Product("Laptop");

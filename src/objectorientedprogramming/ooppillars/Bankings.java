@@ -73,7 +73,7 @@ class CurrentAccount extends BankAccount implements Loanable {
     }
 }
 
-public class BankingMain {
+public class Bankings {
     public static void main(String[] args) {
         List<BankAccount> accounts = new ArrayList<>();
         accounts.add(new SavingsAccount(101, "Adi", 50000));

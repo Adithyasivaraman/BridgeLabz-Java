@@ -71,7 +71,7 @@ class DVD extends LibraryItem {
     }
 }
 
-public class LibrarySystemMain {
+public class LibrarySystems {
     public static void main(String[] args) {
         List<LibraryItem> items = new ArrayList<>();
         items.add(new Book(1, "Java", "Adi"));

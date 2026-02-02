@@ -70,7 +70,7 @@ class NonVegItem extends FoodItem implements Discountable {
     }
 }
 
-public class FoodDeliveryMain {
+public class FoodDeliverys {
     public static void main(String[] args) {
         List<FoodItem> order = new ArrayList<>();
         order.add(new VegItem("Paneer", 200, 2));

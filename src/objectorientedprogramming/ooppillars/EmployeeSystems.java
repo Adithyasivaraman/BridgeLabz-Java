@@ -83,7 +83,7 @@ class PartTimeEmployee extends Employee implements Department {
     }
 }
 
-public class EmployeeSystemMain {
+public class EmployeeSystems {
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
 

@@ -28,7 +28,7 @@ class Library {
     }
 }
 
-public class LibraryMain {
+public class Librarys {
     public static void main(String[] args) {
         Book b1 = new Book("Java", "Adi");
         Book b2 = new Book("DSA", "CLRS");

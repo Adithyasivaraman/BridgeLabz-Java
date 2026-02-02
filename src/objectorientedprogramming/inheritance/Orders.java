@@ -40,7 +40,7 @@ class DeliveredOrder extends ShippedOrder {
     }
 }
 
-public class OrderMain {
+public class Orders {
     public static void main(String[] args) {
         Order o1 = new Order(101, "10-01-2026");
         Order o2 = new ShippedOrder(102, "11-01-2026", "TRK123");

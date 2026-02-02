@@ -54,7 +54,7 @@ class Motorcycle extends Vehicle {
     }
 }
 
-public class VehicleMain {
+public class Vehicles {
     public static void main(String[] args) {
         Vehicle[] vehicles = {
                 new Car(180, "Petrol", 5),

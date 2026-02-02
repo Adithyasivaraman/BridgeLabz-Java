@@ -24,7 +24,7 @@ class Bank {
     }
 }
 
-public class BankMain {
+public class Banks {
     public static void main(String[] args) {
         Bank bank = new Bank("SBI");
         Customer c1 = new Customer("Adi");

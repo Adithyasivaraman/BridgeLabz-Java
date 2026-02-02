@@ -35,7 +35,7 @@ class ElectricVehicle extends Vehicle {
     }
 }
 
-public class HybridVehicleMain {
+public class HybridVehicles {
     public static void main(String[] args) {
         PetrolVehicle p = new PetrolVehicle("Honda City", 180);
         ElectricVehicle e = new ElectricVehicle("Tesla Model 3", 220);

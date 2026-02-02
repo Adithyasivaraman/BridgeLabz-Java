@@ -23,7 +23,7 @@ class Thermostat extends Device {
     }
 }
 
-public class SmartHomeMain {
+public class SmartHomes {
     public static void main(String[] args) {
         Thermostat t = new Thermostat("TH1001", true, 24);
         t.displayStatus();

@@ -54,7 +54,7 @@ class Staff extends Person {
     }
 }
 
-public class SchoolRoleMain {
+public class SchoolRoles {
     public static void main(String[] args) {
         Person p1 = new Teacher("Mr. Kumar", 40, "Maths");
         Person p2 = new Student("Adi", 20, "A");

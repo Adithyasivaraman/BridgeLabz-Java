@@ -54,7 +54,7 @@ class FixedDepositAccount extends BankAccount {
     }
 }
 
-public class BankAccountMain {
+public class BankAccounts {
     public static void main(String[] args) {
         BankAccount a1 = new SavingsAccount(101, 50000, 4.5);
         BankAccount a2 = new CheckingAccount(102, 30000, 5);

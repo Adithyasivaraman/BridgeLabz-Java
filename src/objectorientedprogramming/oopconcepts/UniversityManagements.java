@@ -33,7 +33,7 @@ class Student {
     }
 }
 
-public class UniversityManagementMain {
+public class UniversityManagements {
     public static void main(String[] args) {
         Student s = new Student("Adi");
         Professor p = new Professor("Dr. Kumar");

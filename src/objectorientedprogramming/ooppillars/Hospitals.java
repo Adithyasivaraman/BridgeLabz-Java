@@ -69,7 +69,7 @@ class OutPatient extends Patient implements MedicalRecord {
     }
 }
 
-public class HospitalMain {
+public class Hospitals {
     public static void main(String[] args) {
         List<Patient> patients = new ArrayList<>();
         patients.add(new InPatient(1, "Adi", 21));

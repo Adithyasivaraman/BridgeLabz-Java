@@ -36,7 +36,7 @@ class Waiter extends Person implements Worker {
     }
 }
 
-public class RestaurantMain {
+public class Restaurants {
     public static void main(String[] args) {
         Worker w1 = new Chef("Adi", 101);
         Worker w2 = new Waiter("Rahul", 102);

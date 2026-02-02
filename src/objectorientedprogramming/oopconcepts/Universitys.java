@@ -28,7 +28,7 @@ class University {
     }
 }
 
-public class UniversityMain {
+public class Universitys {
     public static void main(String[] args) {
         University u = new University();
         u.closeUniversity();

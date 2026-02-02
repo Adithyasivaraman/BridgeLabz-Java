@@ -42,7 +42,7 @@ class School {
     }
 }
 
-public class SchoolMain {
+public class Schools {
     public static void main(String[] args) {
         Student s1 = new Student("Adi");
         Course c1 = new Course("Java");

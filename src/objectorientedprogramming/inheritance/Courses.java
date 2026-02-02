@@ -50,7 +50,7 @@ class PaidOnlineCourse extends OnlineCourse {
     }
 }
 
-public class CourseMain {
+public class Courses {
     public static void main(String[] args) {
         Course c = new PaidOnlineCourse("Java Full Stack", 12, "Udemy", true, 5000, 20);
         c.displayDetails();

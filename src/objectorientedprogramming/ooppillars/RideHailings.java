@@ -96,7 +96,7 @@ class Auto extends Vehicle implements GPS {
     }
 }
 
-public class RideHailingMain {
+public class RideHailings {
     public static void main(String[] args) {
         List<Vehicle> rides = new ArrayList<>();
         rides.add(new Car(1, "Adi", 15));

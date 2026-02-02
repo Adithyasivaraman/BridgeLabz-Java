@@ -76,7 +76,7 @@ class Groceries extends Product {
     }
 }
 
-public class ECommerceMain {
+public class ECommerces {
     public static void main(String[] args) {
         List<Product> products = new ArrayList<>();
 

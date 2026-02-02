@@ -86,7 +86,7 @@ class Truck extends Vehicle implements Insurable {
     }
 }
 
-public class VehicleRentalMain {
+public class VehicleRentals {
     public static void main(String[] args) {
         List<Vehicle> vehicles = new ArrayList<>();
         vehicles.add(new Car("C101", 1000));

@@ -23,7 +23,7 @@ class Hospital {
     }
 }
 
-public class HospitalMain {
+public class Hospitals {
     public static void main(String[] args) {
         Doctor d = new Doctor("Adi");
         Patient p = new Patient("Rahul");
